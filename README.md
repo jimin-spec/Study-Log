@@ -19,5 +19,3 @@ Study log for humanity development
 Email: daniel.jimin0523@gmail.com
 
 Github: https://github.com/jimin-spec/Study-Log
-
-끝내고 쓸 말: GitHub 생성: https://github.com/jimin-spec/Study-Log (링크)
