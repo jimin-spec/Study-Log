@@ -9,10 +9,10 @@ Study log for humanity development
 
 ## 12-week plan (summary)
 
-- Week 1–2: 기초 진단, Anki 데크 구성, 프로젝트 아이디어 확정
-- Week 3–6: 수학·물리 심화, 프로젝트 A 초기 구현
-- Week 7–9: 프로젝트 A 완성 및 보고서 작성
-- Week 10–12: 포트폴리오 정리, 발표 영상 제작, 멘토 피드백 수렴
+- Week 1–2:
+- Week 3–6:
+- Week 7–9:
+- Week 10–12:
 
 ## Contact
 
