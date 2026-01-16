@@ -18,4 +18,4 @@ Study log for humanity development
 
 Email: daniel.jimin0523@gmail.com
 
-Github: https://github.com/jimin-spec/Study-Log
+Github: https://github.com/jimin-spec/
